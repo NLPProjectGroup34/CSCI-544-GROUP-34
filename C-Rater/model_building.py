@@ -9,6 +9,13 @@ fileReader = open(r'Dataset\\answers',"r")
 stop_words = set(stopwords.words('english'))
 alternate_answers = {}
 required_lexicons = {}
+
+'''
+Generate the alternate sentences for the given model sentence by:
+1) Identifying Required Lexicons
+2) Marking Stop Words
+3) Replacing Required Lexicons with synonyms
+'''
 for line in fileReader:
     id = line.split(" ")[0]
     model_answer = line[(len(id)+1):].lower()

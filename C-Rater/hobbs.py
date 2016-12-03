@@ -478,7 +478,9 @@ def demo():
     tree, pos = resolve_reflexive([tree6], (1,1,1,1,1,0))
     print("Proposed antecedent for 'herself':", tree[pos], '\n')
 
-
+'''
+Original Function
+'''
 def main(argv):
     if len(sys.argv) == 2 and argv[1] == "demo":
         demo()
@@ -515,6 +517,9 @@ def main(argv):
 #if __name__ == "__main__":
 #    main(sys.argv)
 
+'''
+Take the Parse Tree and return Pronoun Resolved Sentence
+'''
 def resolve_pronoun(trees):
     p = ["He", "he", "Him", "him", "She", "she", "Her",
          "her", "It", "it", "They", "they"]
@@ -541,6 +546,9 @@ def resolve_pronoun(trees):
             values[pro] = [val.strip(), pro_pos]
     return generateSentence(values, trees)
 
+'''
+Traverse the NLTK.tree.Tree
+'''
 def traverseTree(tree, list, string):
     for subtree in tree:
         if type(subtree) == nltk.tree.Tree:
@@ -553,6 +561,9 @@ def traverseTree(tree, list, string):
             list.append(subtree)
     return list
 
+'''
+Generate Sentence from the Parse Tree
+'''
 def generateSentence(values, tree):
     sentence = ""
     for leafPos in tree[0].treepositions('leaves'):

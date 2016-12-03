@@ -24,6 +24,10 @@ def tokensToSentence(tokens):
     return sentence
 
 '''
+Generation of Parse Tree using OpenNLP
+'''
+
+'''
 java -cp OpenNLP_Parse_Tree_Generation-1.0-SNAPSHOT-jar-with-dependencies.jar csci544.opennlp_parse_tree_generation.parseTreeGenerator  "sentence to be parsed"
 '''
 
@@ -32,8 +36,16 @@ java -cp OpenNLP_Parse_Tree_Generation-1.0-SNAPSHOT-jar-with-dependencies.jar cs
     parseTree = proc.stdout.read()
     return parseTree.decode('utf-8').strip()[5:-1]'''
 
+
+'''
+Generation of Parse Tree By NLTK Stanford Parser
+'''
 def generate_parseTree(sentence):
     return list(parser.raw_parse(sentence))
+
+'''
+Spelling Correction
+'''
 
 _digits = re.compile('\d')
 _alphabets = re.compile('[A-Za-z]')
@@ -51,6 +63,9 @@ def spellCorrection(sentence):
             tokens.append(word)
     return tokens
 
+'''
+Read the questions
+'''
 questions = {}
 questionsReader = open(r'Dataset\\questions',"r")
 for line in questionsReader:

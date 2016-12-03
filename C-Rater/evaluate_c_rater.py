@@ -1,6 +1,9 @@
 import os
 import math
 
+'''
+Read the Student Score generated
+'''
 student_scores = []
 for i in range(1,30):
     fileName = "student" + i + "_score.txt"
@@ -11,6 +14,9 @@ for i in range(1,30):
     fileReader.close()
     student_scores.append(scores)
 
+'''
+Read the scores given by human greaders
+'''
 model_scores = []
 for i in range (1,31):
     model_scores.append([])
@@ -24,8 +30,11 @@ for dirName, subdirList, fileList in os.walk(modelScoresDir):
                     model_scores[i].append(line.strip())
                     i += 1
 
-accuracies = []
+'''
+Calculated the Accuracy
+'''
 
+accuracies = []
 for i in range(0, len(student_scores)):
     studentScores = student_scores[i]
     modelScores = model_scores[i]
@@ -43,4 +52,7 @@ for accuracy in accuracies:
     sum += accuracy
 average_accuracy = sum / len(accuracies)
 
+'''
+Print the Evaluation Result
+'''
 print(average_accuracy)

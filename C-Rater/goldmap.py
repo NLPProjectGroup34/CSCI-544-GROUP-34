@@ -8,12 +8,18 @@ path_to_jar = 'stanford-parser-full-2015-12-09\\stanford-parser.jar'
 path_to_models_jar = 'stanford-parser-full-2015-12-09\\stanford-parser-3.6.0-models.jar'
 dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
 
+'''
+Write to the given file
+'''
 def writeToFile(fileName, content):
     fileWriter = open(fileName, 'w')
     fileWriter.write(content)
     fileWriter.close()
     return
 
+'''
+Extract the typed dependencies from the given sentence
+'''
 def extract(sentence):
     f = {}
     result = dependency_parser.raw_parse(sentence)
@@ -36,6 +42,9 @@ def extract(sentence):
         f[featureName].append(fList)
     return f
 
+'''
+Finds and returns the Required Lexicons from the given sentence
+'''
 def getRequiredLexicons(sentence):
     rl = []
     sent = ""
@@ -50,6 +59,9 @@ def getRequiredLexicons(sentence):
             sent += token + " "
     return [rl, sent.strip()]
 
+'''
+Calculate the "nmw" parameter of the featureset
+'''
 def getNMW(rl1, rl2):
     nmw = 0
     synlist2 = []
@@ -71,6 +83,9 @@ def getNMW(rl1, rl2):
                         nmw += 1
     return nmw
 
+'''
+Check for the given 2 dependencies for a match
+'''
 def checkArgsMismatch(type1, type2, dep1, dep2):
     s1 = [s[3] for s in dep1[type1]]
     temp = s1
@@ -109,6 +124,9 @@ def checkArgsMismatch(type1, type2, dep1, dep2):
                     return False
     return True
 
+'''
+Check for the given 2 dependencies for a match, out of which one is passive
+'''
 def checkPassiveArgsMismatch(type1, type2, dep1, dep2):
     s1 = [s[3] for s in dep1[type1]]
     temp = s1
@@ -147,6 +165,9 @@ def checkPassiveArgsMismatch(type1, type2, dep1, dep2):
                     return False
     return True
 
+'''
+Return the "argRolesMismatch" feature
+'''
 def get_Args_Roles_Mismatch(dep1, dep2):
     argsMismatch = []
     rolesMismatch = []
@@ -230,6 +251,9 @@ def get_Args_Roles_Mismatch(dep1, dep2):
                 rolesMismatch.append("pobj_pobj")
     return [argsMismatch, rolesMismatch]
 
+'''
+Identify the common negative roles between given 2 pair of sentences
+'''
 def findPolarityMismatch(neg1, neg2):
     negRoles = []
     negRole1 = []
@@ -246,6 +270,9 @@ def findPolarityMismatch(neg1, neg2):
             negRoles.append(role)
     return negRoles
 
+'''
+Return the "polarityMismatch" parameter
+'''
 def getPolarityMismatch(dep1, dep2):
     negRole = []
     if "neg" in dep1.keys() and "neg" not in dep2.keys():
@@ -258,6 +285,9 @@ def getPolarityMismatch(dep1, dep2):
         negRole = findPolarityMismatch(dep1["neg"], dep2["neg"])
     return negRole
 
+'''
+Generate the feature set
+'''
 def generateFeatures(sentence1, sentence2, rl1, rl2):
     d = {}
     dep1 = extract(sentence1)
@@ -271,7 +301,9 @@ def generateFeatures(sentence1, sentence2, rl1, rl2):
     d['|W|'] = len(sentence1.strip().split(" "))
     return d
 
-
+'''
+Return the Training Vector
+'''
 def trainModel():
     train = []
     fileReader = open(r'Goldmap_Training_Data\\goldmap_training.txt',"r")
@@ -293,14 +325,23 @@ def trainModel():
         train.append(t)
     return train
 
+'''
+Get Required Lexicons of the Model Answers
+'''
 required_lexicons_questions = {}
 with open('required_lexicons.txt', 'rb') as handle:
   required_lexicons_questions = pickle.loads(handle.read())
 
+'''
+Get the Parsed Model Answers
+'''
 model_answers = {}
-with open('model_sentences.txt', 'rb') as handle:
+with open('parsed_sentences.txt', 'rb') as handle:
   model_answers = pickle.loads(handle.read())
 
+'''
+Generate the Test vector for classification
+'''
 def generate_Test():
     test_all_students = {}
     for i in range(1, 31):
@@ -324,6 +365,9 @@ def generate_Test():
         test_all_students[i] = [test]
     return test_all_students
 
+'''
+Calculate the Score
+'''
 def getScores(features):
     score = 5
     if features['nmw'] == 0:
@@ -376,6 +420,9 @@ def getScores(features):
         score -= len(features['polarityMismatch']) / float(features['|W|'])
     return score
 
+'''
+Classification and Score Calculation
+'''
 def classify(test_all_students):
     i = 1
     for test in test_all_students:
@@ -394,7 +441,13 @@ def classify(test_all_students):
         writeToFile(fileName, content.strip())
     return
 
+'''
+Train the model, store the training vector, generate test vector and classify it to generate student scores
+'''
 train = trainModel()
 writeToFile('outputs/goldmap_trainingset.txt', train)
 
 classifier = nltk.MaxentClassifier.train(train, 'GIS', trace=0, max_iter=1000)
+
+test = generate_Test()
+classify(test)

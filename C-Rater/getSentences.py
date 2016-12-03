@@ -1,5 +1,8 @@
 from nltk.corpus import brown
 
+'''
+Read 1000 sentences from Brown Corpus and store locally
+'''
 sentences = []
 
 fileWriter = open("brownCorpusSentences.txt", 'w')
