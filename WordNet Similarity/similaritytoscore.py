@@ -55,17 +55,5 @@ def accuracy(predictions = {}, check_data = {}):
 	return((float(count)/len(predictions))*100)
 
 print(str(accuracy(predictions, check_data)))
-# Path Accuracy: 54.4827586207
-# LCH Accuracy: 56.724137931
-# WUP Accuracy: 55.5172413793
-# RES Accuracy: 64.8275862069
-# JCN Accuracy: 52.9310344828
-# LIN Accuracy: 54.6551724138
-#or score == (check_data[key] - 0.5) or score == (check_data[key] + 0.5)
-#path : 42.5862068966
-#jcn : 40.5172413793
-# res : 55.3448275862
-# wup: 43.7931034483
-# lin : 42.7586206897
-# lch: 44.8275862069
+
 
