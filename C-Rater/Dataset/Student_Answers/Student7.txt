@@ -1,0 +1,87 @@
+1.1 High risk problems are address<RL> in the prototype program<RL> to make sure that the program is feasible<RL> . <STOP> A prototype may also be used<RL> to show a company that the software<RL> can be possibly programmed<RL> . <STOP>
+1.2 Refining<RL> and possibly the design<RL> if the testing phase reveals problems in the design. <STOP> Production<RL> can be affected if the program<RL> is unworkable<RL> in its current form which will lead to a later production<RL> time than originally estimated. <STOP> Also affects coding<RL> because after testing you may need to rewrite the code for the program to remove<RL> errors<RL> . <STOP>
+1.3 Modularability<RL> , the ability<RL> to reuse<RL> parts of the program later in another program sometimes with completely different goals for the program. <STOP> Also it makes<RL> it easier<RL> to debug<RL> code by dividing<RL> up the code into classes<RL> that each do a specific job and when the program fails at one job you only have one class to debug. <STOP> Good for security<RL> purposes because it allows you to let someone use a program which sorts lists without having to give them access to the source code. <STOP> ALso allows you to use inheritance<RL> and polymorphism<RL> . <STOP>
+1.4 At function<RL> int main<RL> -LRB- -RRB- <STOP>
+1.5 Variable can be a integer<RL> or a string<RL> in a program. <STOP>
+1.6 They can be declared<RL> right before<RL> they are used<RL> , but it is a good practice to declare them at the beginning<RL> of the program<RL> and label what they are food. <STOP>
+1.7 "The do<RL> statement first evaluates<RL> the condition and then executes<RL> the lines of code in the statement<RL> 0 or more times. <STOP> The do while statement executes the lines of code and then it evaluates<RL> the condition. <STOP> " <STOP>
+2.1 For us it is usually a set<RL> , get<RL> , and displayMessge<RL> or other messages that tell you what properties a class has but does not reveal its implementations. <STOP> You could have anything you want in your own class definition. <STOP>
+2.2 Data members are the data<RL> components<RL> of a particular class. <STOP> A member function are the functioning<RL> components<RL> of the class. <STOP>
+2.3 A constructor initializes<RL> an object<RL> or objects of a class. <STOP> A function<RL> of a class<RL> performs a task such as display<RL> a line<RL> of text or do some kind of mathematical operations. <STOP>
+2.4 The compiler creates<RL> a default constructor<RL> when we do not define<RL> one in our class<RL> file <STOP>
+2.5 Just one<RL> per class. <STOP>
+2.6 A function definition does<RL> not<RL> require any additional information that needs to be passed inside<RL> its parenthesis<RL> to execute. <STOP> While a definition prototype requires<RL> more than one parameters to be passed in order to complete its task. <STOP>
+2.7 the role of a header file list<RL> all the functions<RL> a class can do while hiding<RL> the inner<RL> workings of its functions <STOP>
+3.1 It includes the name<RL> of the program, the type<RL> of parameters<RL> it can take. <STOP> It should also include a brief description<RL> of what the function does. <STOP>
+3.2 Any functions that follows their deceleration<RL> that are in the source code<RL> file are allowed to have access<RL> the variables. <STOP> Also global scope<RL> variables retrain their value throughout the execution of the program. <STOP>
+3.3 It expands<RL> the function 's definition<RL> in that place. <STOP> Once the functions is called you can use it as many<RL> times<RL> as you need. <STOP> The compiler just expands<RL> on the function. <STOP>
+3.4 Overall the program has better<RL> performance<RL> -LRB- means it is faster -RRB- because it does not have to copy<RL> large amounts of data<RL> . <STOP>
+3.5 The compiler selects<RL> the proper functions to execute<RL> based on number, types and order<RL> of arguments in the function call. <STOP>
+3.6 A base case that is the simplest<RL> case for a problem<RL> so that the function will lead to it, if this does not happen<RL> then it will end up as an infinite loop. <STOP> And a condition to know when to terminate. <STOP>
+3.7 Both involve a controlled<RL> repetition<RL> structures, and they both have<RL> a termination<RL> test. <STOP> Also both of them can loop<RL> forever. <STOP>
+4.1 int n<RL> [10]<RL> ; or or array of 10 integers and int n<RL> [arraySize]<RL> or or where arraySize is some positive integer defined by the user <STOP>
+4.2 strings<RL> that are used in an char array<RL> are much easier to manipulate<RL> than as a string object, because each character<RL> is stored separately rather than as a whole <STOP>
+4.3 by reference<RL> only <STOP>
+4.4 a static array will store the new<RL> values that were assigned to each of its elements<RL> . meaning if you call<RL> a function twice it will use the last values that were returned the first time. if you do not declare it static then the new values will not be stored and will be reset to their original value <STOP>
+4.5 at least 2<RL> , depending on how many arrays<RL> are being used. <STOP>
+4.6 compilation<RL> error<RL> <STOP>
+4.7 usually it is by rows<RL> then followed by the column<RL> , but it is up to the programmer to determine how values are stored in bi-dimensional arrays. <STOP>
+5.1 Takes an element<RL> of an array and compares it with the next<RL> element, depending<RL> on the values of the two<RL> elements they will switch and then the program will compare the new switched element with the next one in the array. <STOP>
+5.2 Searches<RL> an array for the largest or the smallest<RL> element and is moved<RL> out to the front of the array then it will search for the next largest or the smallest element to move out to the front <STOP>
+5.3 The run<RL> time for this sorting program is n to the power<RL> of 2. Best case is the list is already sorted<RL> , worst case is the list is sorted but in reverse. <STOP>
+5.4 The base case for a recursive<RL> merge sort is one number. <STOP> One<RL> number by itself is a sorted<RL> list, regardless of what number it is. <STOP>
+6.1 Its a location<RL> in memory<RL> that contains the memory address of another<RL> location<RL> in memory that contains information. <STOP>
+6.2 This operator returns<RL> the memory address<RL> of its operand. <STOP>
+6.3 returns a synonym<RL> for the object<RL> to which its pointer operand<RL> points. <STOP>
+6.4 The array itself can be signed<RL> to a pointer or each element<RL> of the array can be assigned<RL> to a pointer<RL> . <STOP>
+6.5 the number of bytes<RL> of an array<RL> during program compilation. <STOP>
+6.6 They can be passed<RL> by value or by reference<RL> <STOP>
+6.7 A pointer that points to the memory<RL> address<RL> of the beginning part of a functions<RL> . pretty much the pointer<RL> points to the function so it can be called to execute. <STOP>
+7.1 Consists of sequence<RL> of nodes, each containing a number of data fields<RL> and one or two links called pointers<RL> that point to the next or previous nodes. <STOP>
+7.2 Elements can be inserted<RL> into a link list at any point<RL> and does not need to be resized unlike an array needs to be. <STOP>
+7.3 Array can retrieve<RL> memory<RL> from any place in the list while in a link<RL> list you have to traverse<RL> through each individual node. <STOP>
+7.4 They are passed by reference<RL> because you want the function<RL> to change the pointer <STOP>
+7.5 They are passed by reference<RL> because you want the function<RL> to change the pointer <STOP>
+7.6 they can traverse<RL> in both<RL> directions <STOP>
+7.7 they take up twice<RL> as much memory<RL> for each node <STOP>
+8.1 A data structure for storing<RL> items which are to be accessed in last-in first-out<RL> order that can be implemented in three ways. <STOP>
+8.2 Push<RL> and pop<RL> are two main functions defined in a stack <STOP>
+8.3 An array has a fixed<RL> size. <STOP> You can add and delete<RL> elements to the end of the array<RL> and you use a pointer to keep track of the last element added. <STOP> Each time you add or delete an element you update the pointer and check if it is equal to the max size of the array. <STOP>
+8.4 You can add an element<RL> to the end of the linked list and update<RL> a pointer called top each time you modify<RL> the list. <STOP>
+8.5 List based is preferred because it is not constrained<RL> to a fix size. <STOP> The down fall is that it takes up more memory<RL> because each node has at least two parts, the item and the pointer. <STOP>
+8.6 They are converted<RL> to post fix expressions. <STOP> It still follow<RL> the order of precedence<RL> for the operators. <STOP>
+8.7 isEmptry<RL> -LRB- -RRB- or or<RL> determines if the stack is full or not pop -LRB- -RRB- or or to remove the top element if it is not the on you are looking for search -LRB- -RRB- or or you compare each element of the stack to the data you are looking for. <STOP>
+9.1 A data structure<RL> in c plus plus which is a collection<RL> of data that is kept in order. <STOP> First<RL> in<RL> first out<RL> . <STOP>
+9.2 enqueue<RL> which adds<RL> data<RL> to the queue and dequeue<RL> which deletes<RL> data from the queue <STOP>
+9.3 Make use of a front<RL> pointer and a tail<RL> pointer. <STOP> When the tail pointer reaches the end of an array it gets reset to the front of the array. <STOP> If the two pointers are equal then the queue is either full or just has one element. <STOP>
+9.4 A list can have unlimited<RL> elements in it. <STOP> You can push<RL> a node onto the end of the list and pop<RL> the one in the front. <STOP>
+9.5 List<RL> based<RL> . <STOP> Because it is on the run<RL> time order of N, also it does not have a limited<RL> size like an array does <STOP>
+9.6 Push<RL> . <STOP>
+9.7 A stack<RL> , some printing jobs might have a higher priority than others and they can be easily inserted at the front of the list or anywhere between. <STOP>
+10.1 A hierarchy<RL> of nodes that are sorted in a particular order. <STOP> Each node<RL> has a ancestor -LRB- except for the root -RRB- and children -LRB- except for the leaves -RRB- . <STOP>
+10.2 Each level of a generation<RL> in the tree, some people do not count<RL> the root as a generation <STOP>
+10.3 A leaf is a child<RL> of a parent<RL> node that has no children nodes of its own. <STOP>
+10.4 A tree data structure<RL> in which each done has at most two children, typical<RL> called left and right nodes. <STOP> The right node is usually greater than the left node and the parent node. <STOP>
+10.5 A tree<RL> data structure where each node<RL> has a value, where the total order is defined<RL> on these values. the left subtree contains only values less than the parent node, and vice versa for the right subtree. <STOP>
+10.6 For every node in the binary<RL> tree we first visit its left sub-tree<RL> -LRB- if its there -RRB- and then visit<RL> the parent node itself, and then the right sub-tree -LRB- if its there -RRB- . <STOP>
+10.7 This is on the runtime<RL> order of log -LRB- n -RRB- where n is the number<RL> of nodes in the binary tree. <STOP>
+11.1 The name of the class<RL> file, the parameters it must take to perform<RL> its function. <STOP> Also a brief<RL> description of what the class does. <STOP>
+11.2 Public<RL> and private<RL> specifiers. <STOP>
+11.3 ie. <STOP> GradeBook<RL> myGradeBook -LRB- -RRB- ; call upon the class<RL> and then give it a name like shown <STOP>
+11.4 Name of the function<RL> , parameters it must receive in order to perform and a return<RL> type. <STOP>
+11.5 A function that calls<RL> upon it self to solve a problem. <STOP> Each time it calls upon it self<RL> it splits up a problem into a simplier form until it reaches a "base case" which is the most simplest form of the problem. <STOP>
+11.6 Iteration<RL> , performers<RL> a series of checks and loops. <STOP>
+11.7 The array that is declared<RL> static retains its modified elements so once<RL> it is called upon again the latest elements are modified again. <STOP> An array that is not declared static will keep its original elements. <STOP>
+11.8 the type char []<RL> has a null -LRB- "n" -RRB- element at the very<RL> end. <STOP>
+11.9 For example we have an array<RL> on n elements, the divide and conquer splits<RL> up the array into equal halves and repeats this process until each element is by itself <STOP>
+11.10 It uses the divide<RL> and conqure technique recursively and then when merging<RL> back together it compares each element together in a sorted list, this is done by reversing the divide and conquer technique <STOP>
+12.1 A variable in memory<RL> that hold the address of another<RL> memory location to which it points too <STOP>
+12.2 Try several<RL> sets of data on an algorithm that includes<RL> worst<RL> case, best case, and random cases. <STOP> Also try and run the same program on a different computer with the same specs <STOP>
+12.3 log<RL> -LRB- log<RL> n<RL> -RRB- , 2<RL> to the power of -LRB- log n -RRB- , n to the power of 2, n to the power of 3, n! <STOP>
+12.4 it scans<RL> the list and selects the smallest<RL> -LRB- largest -RRB- element and places<RL> it in the front, increment the curPtr by one, scan the list again for the next smallest -LRB- largest -RRB- element and place it in with respect with the other sorted elements. <STOP>
+12.5 A link list can grow<RL> to a infinite size as a array<RL> has a fixes size. <STOP>
+12.6 A data structure in C plus plus where the the first element<RL> in the queue is the first element taken out of the queue. <STOP>
+12.7 push<RL> and pop<RL> <STOP>
+12.8 When you traverse<RL> a tree of any size you will visit each node three<RL> times. <STOP> Its on the order of 3n or O -LRB- n -RRB- running time. <STOP>
+12.9 if root, set root<RL> to NULL<RL> else if deleting right leaf<RL> , set rightPtr of parent node to NULL else if deleting left leaf, set leftPtr of parent node to NULL else if deleting a left or right subtree child node, set the max leaf child in the left subtree as the new child node. <STOP>
+12.10 Log<RL> -LRB- n<RL> -RRB- where n is the number of nodes. <STOP>

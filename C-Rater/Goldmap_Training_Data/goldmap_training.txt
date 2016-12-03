@@ -1,0 +1,1000 @@
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | He was wrong<RL> | He was not<RL> right<RL>
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+0 | It rang<RL> . | It did<RL> not<RL> ring<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Ten<RL> minutes early<RL> . | Before<RL> 10<RL> minutes .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+0 | He shivered<RL> . | He was motionless<RL> .
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+0 | It was almost<RL> too easy<RL> | It was very<RL> difficult<RL>
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | But , at<RL> the start<RL> his new<RL> life<RL> felt invigorating<RL> | In any case , toward<RL> the begin<RL> , his new<RL> life<RL> felt empowering<RL>
+0 | It was on the tenth day after<RL> the wedding<RL> how could it have been so soon<RL> | It was on the tenth day before<RL> the marriage<RL> which is so late<RL>
+0 | He dropped<RL> the shorts<RL> on<RL> the floor<RL> | He picked<RL> the shorts<RL> from<RL> the floor<RL>
+0 | Now<RL> , I'm not<RL> going to pick up those shorts | Later<RL> I am<RL> going to pick up the shorts
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | I can be as stubborn<RL> as she can , he thought<RL> . | He wanted<RL> to be as lovable<RL> as her .
+1 | My nerves are<RL> as strong<RL> . | My nerves are<RL> as vigorous<RL>
+1 | She'll rush<RL> to the bedroom<RL> when the doorbell rings<RL> . | As she hears<RL> the doorbell , she will go<RL> to the bedroom<RL> .
+1 | Martin was standing<RL> a few feet from<RL> the front door . | The door was<RL> only a few feets away<RL> from<RL> where Martin stood<RL> .
+0 | He swung around , eyes toward<RL> the bedroom , some fifteen feet away<RL> . | He came<RL> from<RL> the bedroom to to<RL> the hall .
+0 | Dolores stood<RL> motionless<RL> in the doorway . | Dolores was<RL> running<RL> fast<RL> .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | Martin turned<RL> his back<RL> . | Martin came<RL> towards<RL> her .
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | In order to rephrase<RL> a sentence , paragraph , essay or article effectively , content with good grammar<RL> and spelling<RL> is important<RL> when using this automatic paraphraser because it can only recognize<RL> understand<RL> and rewrite<RL> correct<RL> grammar | In order to rephrase<RL> a sentence , paragraph , essay or article efficaciously , content with good grammar<RL> and spelling<RL> is paramount<RL> when utilizing this automatic paraphraser because it can only apperceive<RL> understand<RL> and re-indite<RL> correct<RL> grammar
+0 | More<RL> he could take<RL> at leisure<RL> | Less<RL> he could take<RL> at leisure<RL>
+1 | All Martin thought<RL> he needed was time<RL> , to what better use<RL> could time be put ?<RL> | Martin thought<RL> he required<RL> time , what else time can be used<RL> for ?<RL>
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | He saw<RL> later<RL> that they had made their marriage<RL> too quickly<RL> | He later<RL> realized<RL> they got married<RL> too fast<RL> 
+0 | There was too little<RL> occasion beforehand for resistance , the brave strong delights of emotional clash and meeting | There was too many<RL> occasion beforehand for resisance , the brave strong delights of emotional clash and meeting
+1 | They had left<RL> themselves too<RL> much to discover<RL> | They had abandoned<RL> themselves an excessive<RL> amount to find<RL>
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | Martin gave<RL> her<RL> a teasing<RL> pat | She<RL> was given<RL> a teasing<RL> pat by Martin
+1 | I think<RL> you'll get<RL> tired<RL> of them there<RL> | I cerebrate<RL> you'll get<RL> tired<RL> of them there<RL>
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | The shorts would<RL> not<RL> be on<RL> the floor when he came<RL> home that evening | The shorts would<RL> not<RL> be on<RL> the floor when he peregrinated<RL> home that evening
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | Quietly<RL> he determined<RL> to<RL> foil<RL> her . | He wanted<RL> to love<RL> her .
+0 | In the morning<RL> the shorts were<RL> where<RL> he had left<RL> them | Shorts were<RL> somewhere<RL> else<RL> when he woke<RL> up<RL>
+1 | He smiled<RL> to himself<RL> and decided<RL> not<RL> to mention<RL> them till<RL> Dolores did | He smiled<RL> to himself<RL> and determined<RL> to tell<RL> them after<RL> Dolores
+1 | For he had just remembered<RL> tonight they were having<RL> their first<RL> guests<RL> | For he had just recollected<RL> their first visitors<RL> were coming<RL> tonight
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | On the contrary<RL> it would<RL> only weaken<RL> his position<RL> if<RL> he fumed<RL> while she stayed<RL> calm<RL> and adamant<RL> | On the contrary<RL> it would<RL> only debilitate<RL> his position<RL> if<RL> he fumed<RL> while she stayed calm<RL> and intransigent<RL>
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+1 | The rest of the bedroom had been groomed<RL> to a superhuman neatness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts . | The rest of the bedroom had been groomed<RL> to a superhuman orderliness<RL> , but in the middle of the carpet lay the disheveled<RL> shorts .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .
+0 | He saw that Dolores intended<RL> to wait<RL> until the last<RL> minute<RL> , thinking<RL> he would get nervous<RL> . | Dolores waited<RL> for him until<RL> the last<RL> minute<RL> to<RL> make<RL> him happy<RL> .
+0 | They gave<RL> the room a strange note of incongruity<RL> , like a mole on a beautiful<RL> face . | They gave<RL> the room a very bad<RL> look , like a very bad<RL> beauty<RL> mark .

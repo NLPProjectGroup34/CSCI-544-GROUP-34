@@ -1,0 +1,87 @@
+1.1 To simulate<RL> portions<RL> of the desired final product<RL> with a quick and easy program<RL> that does a small specific job. <STOP> It is a way to help see what the problem<RL> is and how you may solve<RL> it in the final project<RL> . <STOP>
+1.2 The implementation<RL> phase and the maintenance<RL> phase are effected <STOP>
+1.3 This type of programming is more flexible<RL> , making it easier to add<RL> and modify<RL> the program. <STOP> It is also a type of a fail<RL> safe<RL> program, you check<RL> each individual module. <STOP> This eliminates redundant code and makes the program easier to read for other programmers. <STOP> When debugging<RL> the program it is easier to track down the source of a problem within a module rather than a 2 million line program. <STOP>
+1.4 the Function<RL> main<RL> -LRB- -RRB- . <STOP>
+1.5 In programming, a structure<RL> that holds data and is uniquely<RL> named<RL> by the programmer. <STOP> It holds the data assigned to it until a new value is assigned or the program is finished. <STOP>
+1.6 In the Function<RL> main<RL> -LRB- -RRB- before<RL> using<RL> the variable. <STOP>
+1.7 do ... while statements evaluate<RL> whether or not to loop after<RL> running<RL> the block<RL> contained within it at least once. <STOP> So the main differance is that while statements have a possibility of never being used. <STOP> Do ... while statements on the other hand are always run at least once before evaluating whether to run again. <STOP>
+2.1 The attributes<RL> of said class. <STOP> Also whether or not it is a subclass<RL> . <STOP> Also whether it is public<RL> private<RL> or protected<RL> . <STOP>
+2.2 A field variable is a variable that is declared<RL> as a member<RL> of a class<RL> . <STOP> A local<RL> variable is avariable that isdeclared local<RL> to a method<RL> . <STOP>
+2.3 all constructors are functions<RL> but not all functions are constructors. <STOP> Also functions can have nearly infinite<RL> purposes<RL> , while constructors always create an instance of whichever class you are using. <STOP> You can change how a constructor does something but not what it does. <STOP> With functions you can change not only the how but also the what. <STOP>
+2.4 during compilation<RL> <STOP>
+2.5 As many<RL> as you want so long as they have different<RL> parameters<RL> . <STOP>
+2.6 The FUNCTION PROTOTYPE is where the programmer declares<RL> that he or she is using<RL> a function<RL> other than main -LRB- -RRB- . <STOP> This is like declaring a variable, the programmer knows that he or she will be using in the future, but has yet to say where they are going to use it, or how. <STOP> This is answers the question who, it gives the function a name and character. <STOP> The function prototype, by common practice is placed at the beginning of the program after the includes and before main -LRB- -RRB- . <STOP> The FUNCTION DEFINITION is the guts of the function. <STOP> This is where the programmer decides what the function is going to do and tells it how to do it. <STOP> It takes whatever information it is given and performs the operations. <STOP> It works sort of like the brain, the brain takes in input and based upon that input performs in some way producing an output. <STOP> The function defintion is placed outside of main -LRB- -RRB- and any other functions. <STOP> A function is its own entity and should be thought of as such. <STOP>
+2.7 The main role of header file is it is used to share<RL> information<RL> among various files. <STOP>
+3.1 it includes the specific information<RL> about the function<RL> such as input<RL> and output<RL> variable types and how many of each. <STOP>
+3.2 they can be accessed<RL> by any C plus plus file anywhere. <STOP>
+3.3 When the compiler inline-expands<RL> a function call, the function 's code gets inserted<RL> into the caller 's code stream -LRB- conceptually similar to what happens with a define<RL> macro -RRB- . <STOP> This can, depending on a zillion other things, improve performance, because the optimizer can procedurally integrate the called code optimize the called code into the caller. <STOP>
+3.4 because you cannot change<RL> the original and passing by reference<RL> limits<RL> memory needed for the program. <STOP>
+3.5 They differentiated by the compiler<RL> by the conditions or inputs used<RL> for one of the overloaded<RL> functions. <STOP>
+3.6 badly designed algorithyms<RL> . using recursion<RL> for a non<RL> recursive problem. <STOP>
+3.7 As discussed earlier, recursion<RL> may be used to process<RL> iterative<RL> actions. <STOP> Recursion is used for calculations<RL> where the answer can be described in a function that relates to itself. <STOP>
+4.1 by either inputing<RL> the different elements<RL> in the array at coding<RL> or giving the array specifacations as to the size of the array. it is also possible when giving it specifacations to tell the array to grow as needed. <STOP>
+4.2 the type<RL> string<RL> uses less<RL> storage<RL> and you have to change the string all at once<RL> . with an array of characters you can make permutations of words using the characters stored in the array, without needing to actually access and change the variables. with an array of characters you can just change how they are accessed. <STOP>
+4.3 a reference<RL> pointer<RL> to an element in the array. <STOP>
+4.4 a static array can only be referenced<RL> not accessed<RL> . <STOP> Also static arrays can be used<RL> without creating<RL> an object. <STOP>
+4.5 all<RL> of them. <STOP>
+4.6 compilation<RL> error<RL> . <STOP>
+4.7 by rows<RL> . <STOP>
+5.1 Insertion sort divides<RL> the list into sorted<RL> and unsorted<RL> regions, then takes each<RL> item from the unsorted region and inserts it into its correct order in the sorted region. <STOP>
+5.2 Selection<RL> sort searches the whole array for the largest<RL> item and puts it at the end<RL> of the array, then searches for the second largest item and puts it at the second to last spot and so on. <STOP>
+5.3 Insertion sort is O<RL> -LRB- n -RRB- and performs n<RL> minus<RL> 1<RL> operations in the best-case scenario, which is when the list or array is already sorted. <STOP>
+5.4 The base case for a recursive implementation<RL> of merge sort is when the sequence<RL> being passed to merge sort<RL> has less than 2 elements. <STOP>
+6.1 A pointer is a variable that contains<RL> a memory<RL> address<RL> as its value. <STOP>
+6.2 The address operator returns<RL> the memory address<RL> of its operand. <STOP>
+6.3 The star operator returns<RL> a synonym<RL> for the object to which its pointer<RL> operand points. <STOP>
+6.4 An array can be addressed<RL> in pointer or offset<RL> notation by setting a pointer<RL> variable equal to the variable<RL> name of the array. <STOP> Elements<RL> of the array can then be accessed<RL> by adding an offset value to the pointer variable. <STOP>
+6.5 The sizeof<RL> operator<RL> returns the size of the operand. <STOP>
+6.6 Nonconstant pointer to nonconstant<RL> data, nonconstant pointer to constant<RL> data, constant pointer<RL> to nonconstant data, constant pointer to constant data. <STOP>
+6.7 A function pointer<RL> is a pointer that contains<RL> the address of the function<RL> in memory. <STOP>
+7.1 A linked list is a list<RL> in which each item in the list points<RL> to the next<RL> item in the list. <STOP>
+7.2 Unlike arrays, linked lists can insert<RL> and delete without shifting data<RL> and change in size easily. <STOP>
+7.3 Arrays require less memory than linked<RL> lists and allow direct access to a specified<RL> item. <STOP> Also, insertion<RL> and deletion<RL> in arrays does not require a list traversal. <STOP>
+7.4 Linked lists are passed as arguments<RL> to a function by passing the head pointer<RL> of the list by reference. <STOP>
+7.5 In a circular linked list, every node<RL> has a successor which means that the last node 's successor<RL> is the head or first node. <STOP>
+7.6 In a doubly linked list you can delete<RL> a node without having to traverse<RL> the list. <STOP>
+7.7 In a doubly linked list, there are more pointers<RL> to set and the mechanics of inserting<RL> and deleting<RL> are more difficult. <STOP> Also, the special cases at the beginning or end of the list are more complicated. <STOP>
+8.1 A stack is an abstract<RL> data type that is based on the principle that the last element inserted<RL> into the stack will be the first element removed from the stack. <STOP>
+8.2 Push<RL> which inserts an element on the top of the stack and pop<RL> which removes the last inserted element from the stack. <STOP>
+8.3 By implementing an array of a pre-defined<RL> size with the bottom stack element stored<RL> at element 0 and the last element stored in the array is the top. <STOP> You increment top when an element is pushed and you decrement it when an item is popped. <STOP>
+8.4 You implement a list in which the head<RL> pointer points to the element most recently pushed<RL> onto the list and the pop function changes the head pointer to point to the next to last element in the list and removes the element head pointer previously pointed to. <STOP>
+8.5 List based is preferred because the stack<RL> you create is not limited<RL> in size and can increase or decrease in size as needed. <STOP>
+8.6 They are first converted to postfix<RL> expressions and then evaluated<RL> . <STOP>
+8.7 You would have to keep using peek<RL> or getTop<RL> to see what the top element is then popping the top element until peek or getTop provides the element you are looking for. <STOP>
+9.1 a queue is a list of objects<RL> in a particular order that is read one at a time starting<RL> at the first followed by the second and so on. <STOP>
+9.2 enqueue<RL> , which inserts<RL> a specified element at the head of the specified queue, and dequeue<RL> , which removes<RL> the specified element from the queue. <STOP>
+9.3 you create<RL> an array with the max size of your queue and adjust<RL> the items to make them follow FIFO procedure. <STOP>
+9.4 theoretically you could do it two ways one of which uses more processing power<RL> and memory no larger than the queue<RL> is ever at when full and the other which uses almost infinite memory. <STOP> The more practical method would be two place the items in an array and remove the item in position one of the array after which you can shift the array and add another element if required. <STOP> The other option which can use infinite memory when used for long term queues such as job scheduling that goes nonstop for extended periods. that is to implement an array and add the items read item one raise your counter value to two ecetera and continue adding more elements to the array. the downside to this method is after you use element one it is still in memory. or im crazy who knows <STOP>
+9.5 linked<RL> list<RL> based. because it does not store<RL> the items linearly in memory but instead<RL> as individual blocks. <STOP>
+9.6 push<RL> , which inserts something at the top of the stack. <STOP>
+9.7 a queue<RL> otherwise some things would never be printed. <STOP>
+10.1 A tree is a finite set of one or more nodes<RL> with a specially designated node called the root and the remaining<RL> nodes are partitioned into disjoint sets where each of these sets is a tree. <STOP>
+10.2 The height<RL> of a tree is in terms<RL> of the levels of its nodes<RL> such that, if the tree is empty its height is 0 otherwise its height is equal to the maximum<RL> level of its nodes. <STOP>
+10.3 A leaf is a node<RL> with no<RL> children. <STOP>
+10.4 A binary tree is a set of nodes<RL> that is either empty or partitioned into a root node and one or two subsets<RL> that are binary subtrees of the root. <STOP> Each node can have no more than two children, a right and a left child. <STOP>
+10.5 A binary search tree is a binary<RL> tree where the value in any node "n 'is greater than<RL> the value in every node<RL> in n 's left subtree but less than every node in n" s right subtree. <STOP>
+10.6 The inorder traversal<RL> of a binary tree visits<RL> the node of a binary tree in order<RL> according to their data values. <STOP>
+10.7 In a binary search tree of size " n<RL> " it takes log -LRB- n -RRB- comparisons<RL> to find a specified element. <STOP>
+11.1 access specifiers<RL> and functions, oftentimes<RL> a constructor. <STOP>
+11.2 Public<RL> , Private<RL> , Restricted<RL> <STOP>
+11.3 They are initialized as a named<RL> instance of the template formed by the class<RL> . <STOP> This named instance can then be modified to be different<RL> from the class that it was created from. <STOP>
+11.4 a function signature is the elements<RL> that make it unique such as the variables<RL> it calls for and also I suppose this includes<RL> the program it is in. <STOP>
+11.5 A function that calls itself to perform<RL> an opperation such as a factorial<RL> recursive function. <STOP>
+11.6 The alternative method<RL> is to use loops in the program<RL> instead of a function which calls itself. <STOP>
+11.7 A static array only has a specific size<RL> and it cannot grow. <STOP> Also static arrays cannot be accessed<RL> outside the program which created it. <STOP>
+11.8 a variable char is basically any non command<RL> key on the keyboard that you can press. <STOP> A string is a collection<RL> of letters or numbers that is stored together to be used later. <STOP> Comonly strings are used for words. <STOP> Chars can be used for less but can have opperations performed on them in a useful way. <STOP>
+11.9 Divide and coquer means dividing a problem into 2 plus problems<RL> which are solved and then merged back together<RL> for a final solution to the whole problem. <STOP>
+11.10 A merge sort works by removing all items to sepperate<RL> memory<RL> locations and merging<RL> them back together in order. <STOP>
+12.1 A pointer is a variable that contains<RL> the memory<RL> address of a given value. <STOP>
+12.2 not answered <STOP>
+12.3 log<RL> -LRB- log<RL> n<RL> -RRB- , n to the power of 2, n to the power of 3, 2 to the power of -LRB- log n -RRB- , n! <STOP>
+12.4 Selection sort searches the array for the lowest<RL> value and swaps it with the first<RL> value in the array. <STOP> Then searches for the next lowest value and swaps it with the second item in the array, and so on. <STOP>
+12.5 The advantage of linked<RL> lists is that they are not limited<RL> in size like arrays. <STOP>
+12.6 A queue is an abstract data type that performs<RL> operations on both ends of the list<RL> and exhibits first-in first-out behavior. <STOP>
+12.7 Pop<RL> , which removes the head, or least recently inserted node from the stack. <STOP> Push<RL> , which inserts a new node at the head of the stack. <STOP>
+12.8 The Euler tour traversal<RL> of a tree begins at the root<RL> and visits each node in the tree from the left<RL> , then bottom, then right sides. <STOP>
+12.9 Traverse the tree and find the node<RL> , if the node has no children, simply delete<RL> it; otherwise set the node 's data equal to the data of one of its children then set the pointer for that child to NULL. <STOP>
+12.10 log<RL> -LRB- n<RL> -RRB- steps <STOP>
